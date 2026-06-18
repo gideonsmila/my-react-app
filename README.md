@@ -1,5 +1,5 @@
 # React + TypeScript + Vite/.rking in Vite with HMR and some ESLint rules
-..
+..v
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
