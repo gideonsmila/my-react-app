@@ -1,4 +1,4 @@
-# React + TypeScript + Vite/.rking in Vite with HMR and some ESLint rules...
+# React + TypeScript + Vite/.rking in Vite with HMR and some ESLint rules..
 .
 Currently, two official plugins are available:
 
